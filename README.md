@@ -1,5 +1,9 @@
-# online_bookstore
-Лобова Оксана, Хитрова Виктория
+# Online_bookstore
+Проект Лобовой Оксаны и Хитровой Виктории
 
-miro https://realtimeboard.com/app/board/o9J_kxmGLEI=/
-trello https://trello.com/b/HwOFyaHW/online-bookstore
+ВГУ, ФКН, 3 курс, группа 2.2 
+
+
+Trello - https://trello.com/b/HwOFyaHW/online-bookstore
+
+MIRO - https://realtimeboard.com/app/board/o9J_kxmGLEI=/
